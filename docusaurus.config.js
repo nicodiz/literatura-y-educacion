@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
+        title: 'Inicio',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Textos',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
