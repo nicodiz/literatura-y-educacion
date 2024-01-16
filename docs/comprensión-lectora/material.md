@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## El traje nuevo del Emperador
 
-Autor: Hans Christian Andersen*
+Autor: Hans Christian Andersen
 
 ---
 
