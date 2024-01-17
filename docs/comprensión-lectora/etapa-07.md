@@ -32,7 +32,7 @@ Ahora vamos a redactar un texto comparativo. Algunas consideraciones:
 
 A continuación compararemos a dos de los personajes del cuento "El traje nuevo del emperador": el ministro y el funcionario.
 
-En cuanto a su cargo y sus funciones, podemos apreciar que ambos tienen cargos políticos y son hombres de confianza del emperador. Por eso, éste los envía a _________.
+En cuanto a sus cargos y funciones, podemos apreciar que ambos tienen cargos políticos y son hombres de confianza del emperador. Por eso, éste los envía a _________.
 
 También, advertimos otra similitud en la forma en que reaccionan al estar ante los estafadores y el traje inexistente: _________. En sintonía con esta situación, luego tanto uno como el otro le mienten al emperador, le dicen lo que quiere escuchar. Estos casos nos muestran que ambos son _________ y _________.
 
