@@ -67,10 +67,6 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Inicio',
-        logo: {
-          alt: 'Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'docSidebar',
@@ -79,40 +75,43 @@ const config = {
             label: 'Textos',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/nicodiz/literatura-y-educacion',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Material',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Textos',
+                to: '/docs/comprensión-lectora/introducción',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+            ],
+          },
+          {
+            title: 'Redes',
+            items: [
+              {
+                label: 'Medium',
+                href: 'https://medium.com/@nicodiz.literaturayeducacion',
+              },
+              {
+                label: 'Wattpad',
+                href: 'https://www.wattpad.com/user/nicodiz',
+              },
+            ],
+          },
+          {
+            title: 'Código',
+            items: [
+              {
+                label: 'Github',
+                href: 'https://github.com/nicodiz/literatura-y-educacion',
               },
             ],
           },
