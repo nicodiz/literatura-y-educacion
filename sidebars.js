@@ -38,6 +38,7 @@ const sidebars = {
         'comprensión-lectora/conclusión',
       ],
     },
+    'contacto'
   ]
 
 };
