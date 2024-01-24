@@ -6,7 +6,7 @@ authors:
   title: Literatura y educación
   url: https://medium.com/@nicodiz.literaturayeducacion
   image_url: https://miro.medium.com/v2/resize:fill:96:96/1*6tpwihCIUayxiGBBN0ycdw.jpeg
-tags: [Philip K Dick, Blade Runner, Literatura, Críticas, Escritura]
+tags: [Philip K Dick, Blade Runner, Literatura, Crítica, Escritura]
 ---
 
 A continuación comparto mis apuntes sobre la novela “¿Sueñan los androides con ovejas eléctricas?” de Philip K. Dick. Octaedro editores, 2003. Traducción de Cesar Terrón, 1977.
