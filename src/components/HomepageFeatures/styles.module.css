@@ -5,7 +5,18 @@
   width: 100%;
 }
 
+.svgWrapper {
+  background: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+  height: 150px;
+  width: 150px;
+}
+
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 120px;
+  width: 120px;
 }

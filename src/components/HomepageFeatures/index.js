@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Literatura',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/book.svg').default,
     description: (
       <>
         Cuentos, novelas y poemas.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Educación',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/education.svg').default,
     description: (
       <>
         Curso de comprensión lectora.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Blog',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/blog.svg').default,
     description: (
       <>
         Artículos de varios temas.
@@ -35,7 +35,7 @@ const FeatureList = [
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
+      <div className={styles.svgWrapper}>
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
