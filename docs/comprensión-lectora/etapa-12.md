@@ -54,4 +54,23 @@ Utilizar el método Feynman para redactar un texto sobre **"el comportamiento de
 
 ## Actividad final
 
-completar
+1. Elegir otro tema y utilizar el método Feynman para redactar un texto explicativo sobre él. Si no se les ocurre ningún tema, aquí tienen algunas opciones:
+
+:::info[Posibles temas]
+
+- el comportamiento del segundo funcionario.
+- el comportamiento del emperador.
+- el comportamiento del niño.
+- el comportamiento de los estafadores.
+- la importancia de las apariencias.
+- el comportamiento de los cortesanos.
+- el papel de los consejeros y asesores.
+- el lugar de la honestidad.
+- el miedo a la opinión de los demás.
+- el costo de mantener una mentira.
+- la importancia de las apariencias.
+- los usos del engaño.
+- el valor de la verdad.
+:::
+
+2. Luego de redactar ese texto, eliminar algunas secciones y dejar indicaciones sobre cómo completarlo, tal como hice en la consigna de la actividad inicial. La idea es que justamente el resultado sirva como una actividad inicial para un futuro estudiante.
