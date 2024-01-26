@@ -44,6 +44,26 @@ const sidebars = {
         }
       ]
     },
+    {
+      type: 'category',
+      label: 'Literatura',
+      items: [
+        {
+          type: 'category',
+          label: 'Cuentos',
+          items: [
+            'literatura/cuentos/TPQSEM'
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Poemas',
+          items: [
+            'literatura/poemas/SBA-01'
+          ]
+        }
+      ]
+    },
     'contacto'
   ]
 
