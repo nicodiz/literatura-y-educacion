@@ -83,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Textos',
-                to: '/docs/comprensión-lectora/introducción',
+                to: '/docs/educacion/comprension-lectora/introduccion',
               },
               {
                 label: 'Blog',

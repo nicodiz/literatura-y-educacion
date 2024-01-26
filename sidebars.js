@@ -19,24 +19,30 @@ const sidebars = {
   "tutorialSidebar": [
     {
       type: 'category',
-      label: 'Comprensión lectora',
+      label: 'Educación',
       items: [
-        'comprensión-lectora/introducción',
-        'comprensión-lectora/material',
-        'comprensión-lectora/etapa-01',
-        'comprensión-lectora/etapa-02',
-        'comprensión-lectora/etapa-03',
-        'comprensión-lectora/etapa-04',
-        'comprensión-lectora/etapa-05',
-        'comprensión-lectora/etapa-06',
-        'comprensión-lectora/etapa-07',
-        'comprensión-lectora/etapa-08',
-        'comprensión-lectora/etapa-09',
-        'comprensión-lectora/etapa-10',
-        'comprensión-lectora/etapa-11',
-        'comprensión-lectora/etapa-12',
-        'comprensión-lectora/conclusión',
-      ],
+        {
+          type: 'category',
+          label: 'Comprensión lectora',
+          items: [
+            'educacion/comprension-lectora/introduccion',
+            'educacion/comprension-lectora/material',
+            'educacion/comprension-lectora/etapa-01',
+            'educacion/comprension-lectora/etapa-02',
+            'educacion/comprension-lectora/etapa-03',
+            'educacion/comprension-lectora/etapa-04',
+            'educacion/comprension-lectora/etapa-05',
+            'educacion/comprension-lectora/etapa-06',
+            'educacion/comprension-lectora/etapa-07',
+            'educacion/comprension-lectora/etapa-08',
+            'educacion/comprension-lectora/etapa-09',
+            'educacion/comprension-lectora/etapa-10',
+            'educacion/comprension-lectora/etapa-11',
+            'educacion/comprension-lectora/etapa-12',
+            'educacion/comprension-lectora/conclusion',
+          ],
+        }
+      ]
     },
     'contacto'
   ]
