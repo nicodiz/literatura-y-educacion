@@ -64,7 +64,8 @@ const sidebars = {
         }
       ]
     },
-    'contacto'
+    'contacto',
+    'donaciones',
   ]
 
 };
