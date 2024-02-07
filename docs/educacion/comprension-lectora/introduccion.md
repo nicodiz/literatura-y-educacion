@@ -4,19 +4,18 @@ sidebar_position: 3
 
 # Introducción
 
-1. ¿En qué consiste este curso?
+1. ¿Por qué tomar este curso de comprensión lectora?
 
-    completar.
+    Porque la comprensión lectora es una puerta para adquirir nuevos conocimientos. Alguien con una limitada comprensión lectora tendrá una limitada capacidad de adquirir nuevos conocimientos.
+    Este curso en particular condensa doce herramientas que sirven para mejorar la comprensión lectora y en consecuencia, expandir la capacidad de adquirir nuevos conocimientos.
 
-2. ¿Cuáles son los objetivos?
+2. ¿Cuáles son los objetivos del curso?
 
     Por un lado, proveer a los estudiantes de doce herramientas y una guía para mejorar su comprensión lectora. Y por otro, proveer a profesores de educación alternativa una metodología escalable, minimalista, lúdica y ordenada para encarar la enseñanza de la comprensión lectora.
 
 3. ¿En qué se diferencia este curso de los demás?
 
-    completar.
-
-    Ver en más detalle en la sección `Conclusión > Características del curso`.
+    Este curso está pensado para ser incorporado en métodos de educación alternativa, como por ejemplo el homeschooling. La forma de organizar las actividades apunta a que sea económicamente viable, lo cual en mi opinión da una respuesta al principal problema de estos métodos. Para más información, ir a la sección `Conclusión > Características del curso`.
 
 4. ¿Cuáles son los requisitos previos?
 
