@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/book.svg').default,
     description: (
       <>
-        Cuentos, novelas y poemas.
+        Mis cuentos, novelas y poemas.
       </>
     ),
   },
