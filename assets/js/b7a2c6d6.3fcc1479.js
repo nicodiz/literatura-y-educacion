@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[1630],{799:a=>{a.exports=JSON.parse('{"permalink":"/literatura-y-educacion/blog/tags/critica","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

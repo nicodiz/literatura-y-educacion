@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[1042],{721:a=>{a.exports=JSON.parse('{"label":"Bastiat","permalink":"/literatura-y-educacion/blog/tags/bastiat","allTagsPath":"/literatura-y-educacion/blog/tags","count":2,"unlisted":false}')}}]);

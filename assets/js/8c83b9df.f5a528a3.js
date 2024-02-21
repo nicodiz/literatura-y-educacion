@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[5886],{4311:a=>{a.exports=JSON.parse('{"label":"Philip K Dick","permalink":"/literatura-y-educacion/blog/tags/philip-k-dick","allTagsPath":"/literatura-y-educacion/blog/tags","count":1,"unlisted":false}')}}]);

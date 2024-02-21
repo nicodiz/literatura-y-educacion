@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[1198],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

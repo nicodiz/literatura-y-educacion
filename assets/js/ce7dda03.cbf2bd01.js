@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[8412],{8889:a=>{a.exports=JSON.parse('{"label":"Literatura","permalink":"/literatura-y-educacion/blog/tags/literatura","allTagsPath":"/literatura-y-educacion/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[9436],{8872:a=>{a.exports=JSON.parse('{"label":"Cr\xedtica","permalink":"/literatura-y-educacion/blog/tags/critica","allTagsPath":"/literatura-y-educacion/blog/tags","count":3,"unlisted":false}')}}]);
