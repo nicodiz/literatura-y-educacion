@@ -39,7 +39,7 @@ sidebar_position: 3
 
 9. ¿Por qué es gratis?
 
-    Porque así puede llegar a más gente. Creo que el mundo sería un lugar mejor si la gente fuera menos ignorante y ésta es mi forma de contribuir a mejorarlo.
+    Porque así puede llegar a más gente. Creo que el mundo sería un lugar mejor si la gente fuera más instruida y ésta es mi forma de contribuir a mejorarlo.
 
 10. ¿Se puede usar el material de este curso para otros propósitos?
 
