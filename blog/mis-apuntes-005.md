@@ -13,6 +13,8 @@ Quizás nunca se te había cruzado por la cabeza porque tienen apellidos diferen
 
 Un fenómeno análogo ocurre con las ideas: si tienen nombres distintos, muchas veces directamente nombres incorrectos, su genealogía pasa inadvertida, junto con otra información relevante.
 
+<!-- truncate -->
+
 Podés encontrar un ejemplo en el Capítulo 8 de “Sofismas Económicos” de Frédéric Bastiat. Aquí se explican las similitudes entre los sofismas a favor de “proteger el trabajo nacional” y los de “proteger el trabajo humano”.
 
 Estas dos ideas son hermanas, puesto que nacen de la misma idea madre que es el proteccionismo económico.

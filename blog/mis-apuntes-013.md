@@ -9,6 +9,8 @@ A continuación comparto mis apuntes sobre la novela “¿Sueñan los androides 
 
 En esta novela cypherpunk se reflexiona sobre la naturaleza humana. Se describe un futuro post apocalíptico después de una Guerra Mundial, donde la contaminación en la Tierra extingue la vida natural. A la vez, los avances tecnológicos hacen que sea muy difícil distinguir a los seres vivos de los eléctricos, ya sean animales o humanos. Por un lado, los humanos han perdido su humanidad. Y por otro, los androides son cada vez más humanos.
 
+<!-- truncate -->
+
 Sobre la pérdida de la humanidad:
 
 - En el primer capítulo, se muestra que Rick y su esposa administran sus emociones con una máquina.

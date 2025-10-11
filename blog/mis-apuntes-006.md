@@ -9,6 +9,8 @@ tags: [Bastiat, Sofismas Económicos, Economía, Crítica, Escritura]
 
 En “Sofismas Económicos” de Frédéric Bastiat, en el Capítulo 8 “Trabajo nacional, trabajo humano” se explican las similitudes entre los sofismas a favor de “proteger el trabajo nacional” y los de “proteger el trabajo humano”. A continuación unos apuntes sobre dicho capítulo.
 
+<!-- truncate -->
+
 De la idea madre que es el proteccionismo económico, nacen dos ideas hijas: el proteccionismo económico nacional y el proteccionismo económico humano. A modo de nota personal, yo las llamaría “xenofobia económica” y “tecnofobia económica”.
 
 La primera busca proteger el trabajo nacional, rechaza los productos fabricados por extranjeros, sostiene que éstos destruyen trabajo nacional y busca poner impuestos o restricciones a dichos productos.
