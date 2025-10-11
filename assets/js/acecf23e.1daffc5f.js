@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkliteratura_y_educacion=globalThis.webpackChunkliteratura_y_educacion||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/literatura-y-educacion/blog","blogTitle":"Blog","authorsListPath":"/literatura-y-educacion/blog/authors"}')}}]);

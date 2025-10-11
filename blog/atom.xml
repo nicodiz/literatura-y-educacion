@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nicodiz.github.io/literatura-y-educacion/blog</id>
     <title>Nico Diz Blog</title>
-    <updated>2024-01-30T13:23:23.000Z</updated>
+    <updated>2025-10-11T00:48:31.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nicodiz.github.io/literatura-y-educacion/blog"/>
     <subtitle>Nico Diz Blog</subtitle>
     <icon>https://nicodiz.github.io/literatura-y-educacion/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mis apuntes. 007: las armonías económicas de Bastiat]]></title>
+        <id>https://nicodiz.github.io/literatura-y-educacion/blog/mis-apuntes-007</id>
+        <link href="https://nicodiz.github.io/literatura-y-educacion/blog/mis-apuntes-007"/>
+        <updated>2025-10-11T00:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Ver apuntes con mapa conceptual]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://medium.com/@nicodiz.literaturayeducacion/mis-apuntes-007-las-armon%C3%ADas-econ%C3%B3micas-de-bastiat-769f38a5af7f" target="_blank" rel="noopener noreferrer">Ver apuntes con mapa conceptual</a></p>
+<p>A continuación un resumen del texto “Armonías Económicas” de Frédéric Bastiat.</p>
+<p>La idea central es que la visión socialista y la visión liberal son incompatibles entre sí pues nacen de premisas opuestas, cuyas causas también son opuestas y derivan en consecuencias, por lo tanto, opuestas.</p>
+<p>Primero, la premisa de la visión socialista es que “los intereses legítimos con antagónicos”, mientras que la de la visión liberal es que “los intereses legítimos con armónicos”.</p>
+<p>Segundo, por un lado las causas de la primera premisa son observaciones mal hechas de la naturaleza humana, seguidas de la imaginación de una sociedad utópica, como por ejemplo sucede en Ricardo o Malthus. Y por otro lado, las causas de la segunda premisa son observaciones bien hechas de la naturaleza humana y luego la obtención de conclusiones sobre estas observaciones, como por ejemplo sucede en Smith.</p>
+<p>Tercero y último, las consecuencias a las que lleva dicho razonamiento son las siguientes. Respecto del socialismo: necesidad de coacción frente al problema social, búsqueda de la organización artificial, odio hacia el ser humano, odio hacia Dios o la providencia, concepción del rol del Estado como la coacción, resolución del problema social como utópico y división de la sociedad. En contraposición, respecto del liberalismo: necesidad de libertad frente al problema social, búsqueda de la organización natural, amor hacia el ser humano, amor hacia Dios o la providencia, concepción del rol del Estado como la justicia, resolución del problema social como practicable y conciliación de la sociedad.</p>]]></content>
+        <author>
+            <name>Nico Diz</name>
+            <uri>https://medium.com/@nicodiz.literaturayeducacion</uri>
+        </author>
+        <category label="Bastiat" term="Bastiat"/>
+        <category label="Armonías Económicas" term="Armonías Económicas"/>
+        <category label="Economía" term="Economía"/>
+        <category label="Crítica" term="Crítica"/>
+        <category label="Escritura" term="Escritura"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mis apuntes. 006: sobre el trabajo nacional y el trabajo humano de Bastiat]]></title>
         <id>https://nicodiz.github.io/literatura-y-educacion/blog/mis-apuntes-006</id>

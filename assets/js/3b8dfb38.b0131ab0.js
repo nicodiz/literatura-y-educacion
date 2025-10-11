@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkliteratura_y_educacion=self.webpackChunkliteratura_y_educacion||[]).push([[4093],{1635:a=>{a.exports=JSON.parse('{"label":"Sofismas Econ\xf3micos","permalink":"/literatura-y-educacion/blog/tags/sofismas-economicos","allTagsPath":"/literatura-y-educacion/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkliteratura_y_educacion=globalThis.webpackChunkliteratura_y_educacion||[]).push([[4461],{4783:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/literatura-y-educacion/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
