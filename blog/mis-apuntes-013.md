@@ -1,11 +1,7 @@
 ---
 slug: mis-apuntes-013
-title: 'Mis apuntes. 013: sueñan los androides'
-authors:
-  name: Nico Diz
-  title: Literatura y educación
-  url: https://medium.com/@nicodiz.literaturayeducacion
-  image_url: https://miro.medium.com/v2/resize:fill:96:96/1*6tpwihCIUayxiGBBN0ycdw.jpeg
+title: "Mis apuntes. 013: sueñan los androides"
+authors: nicodiz
 tags: [Philip K Dick, Blade Runner, Literatura, Crítica, Escritura]
 ---
 

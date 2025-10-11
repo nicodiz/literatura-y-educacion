@@ -1,11 +1,7 @@
 ---
 slug: mis-apuntes-006
-title: 'Mis apuntes. 006: sobre el trabajo nacional y el trabajo humano de Bastiat'
-authors:
-  name: Nico Diz
-  title: Literatura y educación
-  url: https://medium.com/@nicodiz.literaturayeducacion
-  image_url: https://miro.medium.com/v2/resize:fill:96:96/1*6tpwihCIUayxiGBBN0ycdw.jpeg
+title: "Mis apuntes. 006: sobre el trabajo nacional y el trabajo humano de Bastiat"
+authors: nicodiz
 tags: [Bastiat, Sofismas Económicos, Economía, Crítica, Escritura]
 ---
 

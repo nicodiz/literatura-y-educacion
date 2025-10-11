@@ -1,11 +1,7 @@
 ---
 slug: mis-apuntes-005
-title: 'Mis apuntes. 005: palabras y familias'
-authors:
-  name: Nico Diz
-  title: Literatura y educación
-  url: https://medium.com/@nicodiz.literaturayeducacion
-  image_url: https://miro.medium.com/v2/resize:fill:96:96/1*6tpwihCIUayxiGBBN0ycdw.jpeg
+title: "Mis apuntes. 005: palabras y familias"
+authors: nicodiz
 tags: [Bastiat, Sofismas Económicos, Economía, Crítica, Escritura]
 ---
 
